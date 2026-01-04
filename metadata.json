@@ -1,0 +1,8 @@
+{
+  "name": "Mi ESPOL - BiciESPOL",
+  "description": "A comprehensive mobile-inspired web application for campus services, focusing on the BiciESPOL bike-sharing system with real-time station tracking and reservation management.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
